@@ -1,7 +1,7 @@
 {
     "name": "standalone",
     "tree": {
-        "$path": "Packages",
+        "$className": "Folder",
         "markdowner": {
             "$path": "src"
         }
