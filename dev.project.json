@@ -1,0 +1,15 @@
+{
+	"emitLegacyScripts": false,
+	"name": "markdowner",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"Packages": {
+                "$className": "Folder",
+				"markdowner": {
+					"$path": "src"
+				}
+			}
+		}
+	}
+}
